@@ -1,0 +1,627 @@
+client_id,date,feedback_text
+C0001,2026-03-22,"Great support response time, issue resolved quickly."
+C0002,2026-06-26,"The team loves the new dashboard, really improved our workflow."
+C0002,2026-02-25,Onboarding was smooth and the product fits our needs well.
+C0003,2026-01-20,We're expanding usage across more departments this quarter.
+C0003,2026-06-21,"Great support response time, issue resolved quickly."
+C0003,2026-02-17,We're expanding usage across more departments this quarter.
+C0004,2026-04-13,"The team loves the new dashboard, really improved our workflow."
+C0004,2026-06-11,We're expanding usage across more departments this quarter.
+C0004,2026-01-24,"The team loves the new dashboard, really improved our workflow."
+C0005,2026-02-21,We're evaluating competitor tools because key features are missing.
+C0005,2026-05-18,Support has been slow to respond to our last three tickets.
+C0006,2026-03-15,"We've had repeated bugs in the reporting module, frustrating."
+C0006,2026-06-03,"We've had repeated bugs in the reporting module, frustrating."
+C0006,2026-02-24,"We've had repeated bugs in the reporting module, frustrating."
+C0007,2026-04-09,Pricing feels too high compared to the value we're getting.
+C0007,2026-03-05,The platform is too complex for our team to adopt fully.
+C0007,2026-05-28,"We've had repeated bugs in the reporting module, frustrating."
+C0008,2026-06-05,We're expanding usage across more departments this quarter.
+C0008,2026-02-11,"The team loves the new dashboard, really improved our workflow."
+C0009,2026-04-26,Onboarding was smooth and the product fits our needs well.
+C0009,2026-01-26,Onboarding was smooth and the product fits our needs well.
+C0009,2026-05-08,Onboarding was smooth and the product fits our needs well.
+C0010,2026-04-18,"Great support response time, issue resolved quickly."
+C0011,2026-02-07,Support has been slow to respond to our last three tickets.
+C0011,2026-03-12,Support has been slow to respond to our last three tickets.
+C0011,2026-02-25,Support has been slow to respond to our last three tickets.
+C0012,2026-01-22,"The team loves the new dashboard, really improved our workflow."
+C0012,2026-04-08,Onboarding was smooth and the product fits our needs well.
+C0012,2026-01-22,"Great support response time, issue resolved quickly."
+C0013,2026-04-09,"The team loves the new dashboard, really improved our workflow."
+C0013,2026-01-17,Onboarding was smooth and the product fits our needs well.
+C0014,2026-04-16,The platform is too complex for our team to adopt fully.
+C0014,2026-03-21,Pricing feels too high compared to the value we're getting.
+C0015,2026-01-06,Pricing feels too high compared to the value we're getting.
+C0016,2026-02-22,Pricing feels too high compared to the value we're getting.
+C0016,2026-06-14,"We've had repeated bugs in the reporting module, frustrating."
+C0016,2026-02-18,Pricing feels too high compared to the value we're getting.
+C0017,2026-06-27,We're evaluating competitor tools because key features are missing.
+C0017,2026-06-22,Pricing feels too high compared to the value we're getting.
+C0017,2026-01-15,"We've had repeated bugs in the reporting module, frustrating."
+C0018,2026-01-02,"The team loves the new dashboard, really improved our workflow."
+C0018,2026-03-18,"Great support response time, issue resolved quickly."
+C0018,2026-05-27,"The team loves the new dashboard, really improved our workflow."
+C0019,2026-04-15,We're evaluating competitor tools because key features are missing.
+C0020,2026-01-13,Onboarding was smooth and the product fits our needs well.
+C0020,2026-05-01,"The team loves the new dashboard, really improved our workflow."
+C0020,2026-06-19,"The team loves the new dashboard, really improved our workflow."
+C0021,2026-03-17,"The team loves the new dashboard, really improved our workflow."
+C0022,2026-05-03,Support has been slow to respond to our last three tickets.
+C0023,2026-04-13,We're evaluating competitor tools because key features are missing.
+C0023,2026-04-06,Pricing feels too high compared to the value we're getting.
+C0024,2026-05-10,We're expanding usage across more departments this quarter.
+C0024,2026-03-22,"Great support response time, issue resolved quickly."
+C0024,2026-01-18,Onboarding was smooth and the product fits our needs well.
+C0025,2026-01-19,"The team loves the new dashboard, really improved our workflow."
+C0025,2026-05-18,We're expanding usage across more departments this quarter.
+C0025,2026-03-07,"The team loves the new dashboard, really improved our workflow."
+C0026,2026-02-14,Onboarding was smooth and the product fits our needs well.
+C0026,2026-02-06,"Great support response time, issue resolved quickly."
+C0026,2026-05-27,"Great support response time, issue resolved quickly."
+C0027,2026-06-26,"We've had repeated bugs in the reporting module, frustrating."
+C0027,2026-01-28,The platform is too complex for our team to adopt fully.
+C0028,2026-03-22,"The team loves the new dashboard, really improved our workflow."
+C0028,2026-03-04,"The team loves the new dashboard, really improved our workflow."
+C0028,2026-06-19,"Great support response time, issue resolved quickly."
+C0029,2026-02-22,Support has been slow to respond to our last three tickets.
+C0029,2026-01-10,"We've had repeated bugs in the reporting module, frustrating."
+C0030,2026-03-16,"We've had repeated bugs in the reporting module, frustrating."
+C0030,2026-03-20,We're evaluating competitor tools because key features are missing.
+C0030,2026-06-19,Support has been slow to respond to our last three tickets.
+C0031,2026-03-14,Onboarding was smooth and the product fits our needs well.
+C0032,2026-02-23,"We've had repeated bugs in the reporting module, frustrating."
+C0033,2026-03-05,Support has been slow to respond to our last three tickets.
+C0033,2026-04-15,Support has been slow to respond to our last three tickets.
+C0033,2026-03-25,We're evaluating competitor tools because key features are missing.
+C0034,2026-02-21,"The team loves the new dashboard, really improved our workflow."
+C0034,2026-03-28,"The team loves the new dashboard, really improved our workflow."
+C0035,2026-03-24,"We've had repeated bugs in the reporting module, frustrating."
+C0036,2026-01-28,"The team loves the new dashboard, really improved our workflow."
+C0036,2026-05-19,"The team loves the new dashboard, really improved our workflow."
+C0036,2026-05-07,We're expanding usage across more departments this quarter.
+C0037,2026-06-25,We're expanding usage across more departments this quarter.
+C0038,2026-05-24,"We've had repeated bugs in the reporting module, frustrating."
+C0039,2026-04-12,"The team loves the new dashboard, really improved our workflow."
+C0039,2026-06-08,"The team loves the new dashboard, really improved our workflow."
+C0040,2026-04-06,"Great support response time, issue resolved quickly."
+C0040,2026-05-19,"Great support response time, issue resolved quickly."
+C0040,2026-06-24,"Great support response time, issue resolved quickly."
+C0041,2026-02-25,"The team loves the new dashboard, really improved our workflow."
+C0041,2026-02-03,We're expanding usage across more departments this quarter.
+C0042,2026-06-07,"The team loves the new dashboard, really improved our workflow."
+C0042,2026-04-16,Onboarding was smooth and the product fits our needs well.
+C0043,2026-06-11,"The team loves the new dashboard, really improved our workflow."
+C0043,2026-06-17,"The team loves the new dashboard, really improved our workflow."
+C0044,2026-05-18,Support has been slow to respond to our last three tickets.
+C0044,2026-02-13,The platform is too complex for our team to adopt fully.
+C0044,2026-03-19,We're evaluating competitor tools because key features are missing.
+C0045,2026-05-09,"The team loves the new dashboard, really improved our workflow."
+C0045,2026-02-17,We're expanding usage across more departments this quarter.
+C0045,2026-03-27,We're expanding usage across more departments this quarter.
+C0046,2026-05-01,We're expanding usage across more departments this quarter.
+C0046,2026-04-06,"Great support response time, issue resolved quickly."
+C0047,2026-02-05,Onboarding was smooth and the product fits our needs well.
+C0048,2026-06-08,"The team loves the new dashboard, really improved our workflow."
+C0049,2026-04-22,Pricing feels too high compared to the value we're getting.
+C0049,2026-04-07,We're evaluating competitor tools because key features are missing.
+C0050,2026-01-08,We're evaluating competitor tools because key features are missing.
+C0050,2026-02-19,Pricing feels too high compared to the value we're getting.
+C0050,2026-02-05,The platform is too complex for our team to adopt fully.
+C0051,2026-01-06,"Great support response time, issue resolved quickly."
+C0051,2026-02-17,Onboarding was smooth and the product fits our needs well.
+C0051,2026-05-19,We're expanding usage across more departments this quarter.
+C0052,2026-01-07,Onboarding was smooth and the product fits our needs well.
+C0052,2026-05-16,We're expanding usage across more departments this quarter.
+C0052,2026-02-08,We're expanding usage across more departments this quarter.
+C0053,2026-05-22,"Great support response time, issue resolved quickly."
+C0053,2026-02-24,Onboarding was smooth and the product fits our needs well.
+C0054,2026-05-19,We're expanding usage across more departments this quarter.
+C0054,2026-02-13,"The team loves the new dashboard, really improved our workflow."
+C0054,2026-02-04,We're expanding usage across more departments this quarter.
+C0055,2026-02-20,We're expanding usage across more departments this quarter.
+C0056,2026-05-17,"The team loves the new dashboard, really improved our workflow."
+C0057,2026-05-18,"We've had repeated bugs in the reporting module, frustrating."
+C0058,2026-05-14,We're expanding usage across more departments this quarter.
+C0059,2026-02-26,We're expanding usage across more departments this quarter.
+C0059,2026-04-12,We're expanding usage across more departments this quarter.
+C0060,2026-01-14,The platform is too complex for our team to adopt fully.
+C0060,2026-03-16,"We've had repeated bugs in the reporting module, frustrating."
+C0060,2026-01-10,"We've had repeated bugs in the reporting module, frustrating."
+C0061,2026-03-07,We're evaluating competitor tools because key features are missing.
+C0061,2026-06-24,Pricing feels too high compared to the value we're getting.
+C0061,2026-05-17,Pricing feels too high compared to the value we're getting.
+C0062,2026-06-07,We're evaluating competitor tools because key features are missing.
+C0063,2026-03-04,We're evaluating competitor tools because key features are missing.
+C0063,2026-04-21,"We've had repeated bugs in the reporting module, frustrating."
+C0063,2026-03-09,The platform is too complex for our team to adopt fully.
+C0064,2026-05-09,Onboarding was smooth and the product fits our needs well.
+C0064,2026-02-14,We're expanding usage across more departments this quarter.
+C0064,2026-02-12,We're expanding usage across more departments this quarter.
+C0065,2026-03-19,Onboarding was smooth and the product fits our needs well.
+C0065,2026-06-13,Onboarding was smooth and the product fits our needs well.
+C0065,2026-06-04,"Great support response time, issue resolved quickly."
+C0066,2026-01-07,"Great support response time, issue resolved quickly."
+C0066,2026-03-26,We're expanding usage across more departments this quarter.
+C0066,2026-02-13,"The team loves the new dashboard, really improved our workflow."
+C0067,2026-02-16,Pricing feels too high compared to the value we're getting.
+C0067,2026-04-03,The platform is too complex for our team to adopt fully.
+C0067,2026-03-08,Pricing feels too high compared to the value we're getting.
+C0068,2026-06-13,"The team loves the new dashboard, really improved our workflow."
+C0068,2026-05-21,We're expanding usage across more departments this quarter.
+C0069,2026-01-25,The platform is too complex for our team to adopt fully.
+C0069,2026-06-16,"We've had repeated bugs in the reporting module, frustrating."
+C0069,2026-01-07,We're evaluating competitor tools because key features are missing.
+C0070,2026-03-07,The platform is too complex for our team to adopt fully.
+C0070,2026-05-17,Pricing feels too high compared to the value we're getting.
+C0070,2026-06-08,The platform is too complex for our team to adopt fully.
+C0071,2026-03-08,"The team loves the new dashboard, really improved our workflow."
+C0071,2026-02-03,"The team loves the new dashboard, really improved our workflow."
+C0071,2026-04-12,Onboarding was smooth and the product fits our needs well.
+C0072,2026-02-17,The platform is too complex for our team to adopt fully.
+C0072,2026-06-23,Pricing feels too high compared to the value we're getting.
+C0072,2026-01-18,Pricing feels too high compared to the value we're getting.
+C0073,2026-05-12,The platform is too complex for our team to adopt fully.
+C0073,2026-03-08,Support has been slow to respond to our last three tickets.
+C0074,2026-04-19,We're evaluating competitor tools because key features are missing.
+C0074,2026-03-06,Pricing feels too high compared to the value we're getting.
+C0074,2026-05-04,We're evaluating competitor tools because key features are missing.
+C0075,2026-03-04,Onboarding was smooth and the product fits our needs well.
+C0075,2026-05-27,Onboarding was smooth and the product fits our needs well.
+C0075,2026-06-15,Onboarding was smooth and the product fits our needs well.
+C0076,2026-03-25,"Great support response time, issue resolved quickly."
+C0076,2026-06-15,We're expanding usage across more departments this quarter.
+C0077,2026-01-09,We're evaluating competitor tools because key features are missing.
+C0077,2026-04-21,Pricing feels too high compared to the value we're getting.
+C0077,2026-06-23,"We've had repeated bugs in the reporting module, frustrating."
+C0078,2026-03-17,We're expanding usage across more departments this quarter.
+C0079,2026-02-10,Onboarding was smooth and the product fits our needs well.
+C0079,2026-04-22,"The team loves the new dashboard, really improved our workflow."
+C0079,2026-01-18,Onboarding was smooth and the product fits our needs well.
+C0080,2026-02-19,Support has been slow to respond to our last three tickets.
+C0081,2026-04-24,"Great support response time, issue resolved quickly."
+C0081,2026-02-24,"Great support response time, issue resolved quickly."
+C0082,2026-02-07,"We've had repeated bugs in the reporting module, frustrating."
+C0083,2026-02-25,Support has been slow to respond to our last three tickets.
+C0084,2026-06-22,Pricing feels too high compared to the value we're getting.
+C0085,2026-04-12,"The team loves the new dashboard, really improved our workflow."
+C0085,2026-04-19,Onboarding was smooth and the product fits our needs well.
+C0086,2026-04-08,Onboarding was smooth and the product fits our needs well.
+C0086,2026-01-17,"Great support response time, issue resolved quickly."
+C0087,2026-05-12,"The team loves the new dashboard, really improved our workflow."
+C0087,2026-06-25,We're expanding usage across more departments this quarter.
+C0088,2026-06-17,"The team loves the new dashboard, really improved our workflow."
+C0089,2026-01-22,"The team loves the new dashboard, really improved our workflow."
+C0089,2026-04-19,"Great support response time, issue resolved quickly."
+C0090,2026-02-18,Onboarding was smooth and the product fits our needs well.
+C0091,2026-05-11,We're evaluating competitor tools because key features are missing.
+C0091,2026-02-16,Support has been slow to respond to our last three tickets.
+C0092,2026-03-28,Onboarding was smooth and the product fits our needs well.
+C0092,2026-03-15,We're expanding usage across more departments this quarter.
+C0093,2026-01-24,"Great support response time, issue resolved quickly."
+C0094,2026-04-28,The platform is too complex for our team to adopt fully.
+C0094,2026-02-05,We're evaluating competitor tools because key features are missing.
+C0095,2026-02-14,"The team loves the new dashboard, really improved our workflow."
+C0095,2026-02-28,We're expanding usage across more departments this quarter.
+C0095,2026-04-10,Onboarding was smooth and the product fits our needs well.
+C0096,2026-04-04,"The team loves the new dashboard, really improved our workflow."
+C0096,2026-01-07,"Great support response time, issue resolved quickly."
+C0097,2026-04-24,"The team loves the new dashboard, really improved our workflow."
+C0097,2026-03-12,Onboarding was smooth and the product fits our needs well.
+C0098,2026-03-01,Onboarding was smooth and the product fits our needs well.
+C0098,2026-01-12,We're expanding usage across more departments this quarter.
+C0099,2026-05-19,"Great support response time, issue resolved quickly."
+C0099,2026-03-12,"Great support response time, issue resolved quickly."
+C0099,2026-06-17,Onboarding was smooth and the product fits our needs well.
+C0100,2026-01-13,We're expanding usage across more departments this quarter.
+C0100,2026-04-21,Onboarding was smooth and the product fits our needs well.
+C0101,2026-04-21,Onboarding was smooth and the product fits our needs well.
+C0102,2026-01-06,"The team loves the new dashboard, really improved our workflow."
+C0102,2026-02-11,Onboarding was smooth and the product fits our needs well.
+C0102,2026-06-10,Onboarding was smooth and the product fits our needs well.
+C0103,2026-03-15,We're expanding usage across more departments this quarter.
+C0103,2026-06-19,Onboarding was smooth and the product fits our needs well.
+C0103,2026-04-06,We're expanding usage across more departments this quarter.
+C0104,2026-06-08,"We've had repeated bugs in the reporting module, frustrating."
+C0105,2026-02-06,"The team loves the new dashboard, really improved our workflow."
+C0105,2026-01-04,We're expanding usage across more departments this quarter.
+C0105,2026-04-18,"The team loves the new dashboard, really improved our workflow."
+C0106,2026-05-25,We're evaluating competitor tools because key features are missing.
+C0107,2026-01-21,"Great support response time, issue resolved quickly."
+C0108,2026-06-10,"Great support response time, issue resolved quickly."
+C0108,2026-06-05,We're expanding usage across more departments this quarter.
+C0109,2026-01-02,"We've had repeated bugs in the reporting module, frustrating."
+C0110,2026-04-15,Support has been slow to respond to our last three tickets.
+C0110,2026-03-18,The platform is too complex for our team to adopt fully.
+C0110,2026-02-23,We're evaluating competitor tools because key features are missing.
+C0111,2026-06-24,We're expanding usage across more departments this quarter.
+C0111,2026-05-21,We're expanding usage across more departments this quarter.
+C0111,2026-03-16,Onboarding was smooth and the product fits our needs well.
+C0112,2026-04-10,Pricing feels too high compared to the value we're getting.
+C0112,2026-04-09,Support has been slow to respond to our last three tickets.
+C0112,2026-03-01,"We've had repeated bugs in the reporting module, frustrating."
+C0113,2026-03-10,"Great support response time, issue resolved quickly."
+C0114,2026-04-10,We're expanding usage across more departments this quarter.
+C0114,2026-04-26,"The team loves the new dashboard, really improved our workflow."
+C0115,2026-05-12,"The team loves the new dashboard, really improved our workflow."
+C0115,2026-04-18,"Great support response time, issue resolved quickly."
+C0116,2026-06-24,"Great support response time, issue resolved quickly."
+C0116,2026-04-08,We're expanding usage across more departments this quarter.
+C0117,2026-05-25,"Great support response time, issue resolved quickly."
+C0117,2026-03-21,Onboarding was smooth and the product fits our needs well.
+C0118,2026-04-07,Support has been slow to respond to our last three tickets.
+C0118,2026-02-05,Pricing feels too high compared to the value we're getting.
+C0118,2026-01-21,Support has been slow to respond to our last three tickets.
+C0119,2026-06-20,Onboarding was smooth and the product fits our needs well.
+C0119,2026-02-11,We're expanding usage across more departments this quarter.
+C0120,2026-02-04,"The team loves the new dashboard, really improved our workflow."
+C0121,2026-06-01,We're expanding usage across more departments this quarter.
+C0121,2026-01-05,"Great support response time, issue resolved quickly."
+C0122,2026-04-10,Onboarding was smooth and the product fits our needs well.
+C0123,2026-06-26,We're evaluating competitor tools because key features are missing.
+C0123,2026-03-03,Pricing feels too high compared to the value we're getting.
+C0124,2026-01-18,We're evaluating competitor tools because key features are missing.
+C0125,2026-04-27,Support has been slow to respond to our last three tickets.
+C0125,2026-01-25,Pricing feels too high compared to the value we're getting.
+C0126,2026-02-24,We're expanding usage across more departments this quarter.
+C0126,2026-02-15,"The team loves the new dashboard, really improved our workflow."
+C0126,2026-05-22,"The team loves the new dashboard, really improved our workflow."
+C0127,2026-03-06,Onboarding was smooth and the product fits our needs well.
+C0128,2026-03-16,"The team loves the new dashboard, really improved our workflow."
+C0128,2026-02-12,Onboarding was smooth and the product fits our needs well.
+C0128,2026-06-07,"The team loves the new dashboard, really improved our workflow."
+C0129,2026-03-01,We're evaluating competitor tools because key features are missing.
+C0130,2026-01-13,The platform is too complex for our team to adopt fully.
+C0131,2026-05-26,"The team loves the new dashboard, really improved our workflow."
+C0132,2026-02-12,The platform is too complex for our team to adopt fully.
+C0132,2026-02-06,Pricing feels too high compared to the value we're getting.
+C0132,2026-01-22,We're evaluating competitor tools because key features are missing.
+C0133,2026-01-12,Pricing feels too high compared to the value we're getting.
+C0133,2026-06-18,"We've had repeated bugs in the reporting module, frustrating."
+C0133,2026-02-16,Pricing feels too high compared to the value we're getting.
+C0134,2026-04-24,Onboarding was smooth and the product fits our needs well.
+C0135,2026-03-24,We're expanding usage across more departments this quarter.
+C0136,2026-04-23,"The team loves the new dashboard, really improved our workflow."
+C0137,2026-02-19,We're expanding usage across more departments this quarter.
+C0137,2026-05-12,"Great support response time, issue resolved quickly."
+C0138,2026-05-28,Onboarding was smooth and the product fits our needs well.
+C0138,2026-01-17,"Great support response time, issue resolved quickly."
+C0139,2026-05-12,Onboarding was smooth and the product fits our needs well.
+C0140,2026-06-06,We're expanding usage across more departments this quarter.
+C0140,2026-05-28,"The team loves the new dashboard, really improved our workflow."
+C0141,2026-03-24,"We've had repeated bugs in the reporting module, frustrating."
+C0141,2026-06-18,Pricing feels too high compared to the value we're getting.
+C0142,2026-05-05,We're evaluating competitor tools because key features are missing.
+C0142,2026-03-11,The platform is too complex for our team to adopt fully.
+C0143,2026-01-17,"The team loves the new dashboard, really improved our workflow."
+C0143,2026-01-27,"The team loves the new dashboard, really improved our workflow."
+C0144,2026-02-04,"The team loves the new dashboard, really improved our workflow."
+C0145,2026-05-21,"The team loves the new dashboard, really improved our workflow."
+C0145,2026-06-16,We're expanding usage across more departments this quarter.
+C0146,2026-03-02,The platform is too complex for our team to adopt fully.
+C0146,2026-02-20,Support has been slow to respond to our last three tickets.
+C0146,2026-01-07,Pricing feels too high compared to the value we're getting.
+C0147,2026-04-26,"The team loves the new dashboard, really improved our workflow."
+C0147,2026-03-18,"The team loves the new dashboard, really improved our workflow."
+C0147,2026-03-26,We're expanding usage across more departments this quarter.
+C0148,2026-05-02,Onboarding was smooth and the product fits our needs well.
+C0148,2026-03-03,"The team loves the new dashboard, really improved our workflow."
+C0148,2026-05-04,"Great support response time, issue resolved quickly."
+C0149,2026-04-07,The platform is too complex for our team to adopt fully.
+C0150,2026-05-21,"We've had repeated bugs in the reporting module, frustrating."
+C0151,2026-06-04,We're expanding usage across more departments this quarter.
+C0152,2026-06-22,We're evaluating competitor tools because key features are missing.
+C0152,2026-01-06,We're evaluating competitor tools because key features are missing.
+C0152,2026-05-13,"We've had repeated bugs in the reporting module, frustrating."
+C0153,2026-05-20,"We've had repeated bugs in the reporting module, frustrating."
+C0153,2026-03-11,We're evaluating competitor tools because key features are missing.
+C0153,2026-03-28,The platform is too complex for our team to adopt fully.
+C0154,2026-06-11,We're expanding usage across more departments this quarter.
+C0154,2026-05-18,"Great support response time, issue resolved quickly."
+C0155,2026-03-15,Onboarding was smooth and the product fits our needs well.
+C0156,2026-06-02,"The team loves the new dashboard, really improved our workflow."
+C0156,2026-05-01,Onboarding was smooth and the product fits our needs well.
+C0157,2026-01-10,Onboarding was smooth and the product fits our needs well.
+C0157,2026-02-28,"Great support response time, issue resolved quickly."
+C0157,2026-01-25,Onboarding was smooth and the product fits our needs well.
+C0158,2026-05-18,The platform is too complex for our team to adopt fully.
+C0158,2026-05-05,The platform is too complex for our team to adopt fully.
+C0158,2026-01-15,Pricing feels too high compared to the value we're getting.
+C0159,2026-03-19,Support has been slow to respond to our last three tickets.
+C0159,2026-02-09,"We've had repeated bugs in the reporting module, frustrating."
+C0160,2026-05-07,We're expanding usage across more departments this quarter.
+C0160,2026-06-11,"The team loves the new dashboard, really improved our workflow."
+C0161,2026-05-21,"The team loves the new dashboard, really improved our workflow."
+C0161,2026-01-24,Onboarding was smooth and the product fits our needs well.
+C0162,2026-03-12,"The team loves the new dashboard, really improved our workflow."
+C0162,2026-04-28,We're expanding usage across more departments this quarter.
+C0162,2026-02-24,"The team loves the new dashboard, really improved our workflow."
+C0163,2026-06-25,Pricing feels too high compared to the value we're getting.
+C0163,2026-01-10,We're evaluating competitor tools because key features are missing.
+C0163,2026-01-11,The platform is too complex for our team to adopt fully.
+C0164,2026-05-23,Onboarding was smooth and the product fits our needs well.
+C0164,2026-02-02,"Great support response time, issue resolved quickly."
+C0164,2026-04-25,We're expanding usage across more departments this quarter.
+C0165,2026-02-14,Pricing feels too high compared to the value we're getting.
+C0165,2026-04-05,Support has been slow to respond to our last three tickets.
+C0165,2026-03-03,"We've had repeated bugs in the reporting module, frustrating."
+C0166,2026-05-13,"The team loves the new dashboard, really improved our workflow."
+C0166,2026-01-13,Onboarding was smooth and the product fits our needs well.
+C0167,2026-02-16,"Great support response time, issue resolved quickly."
+C0167,2026-04-13,"Great support response time, issue resolved quickly."
+C0167,2026-05-20,"Great support response time, issue resolved quickly."
+C0168,2026-01-09,"We've had repeated bugs in the reporting module, frustrating."
+C0168,2026-03-22,We're evaluating competitor tools because key features are missing.
+C0168,2026-01-04,The platform is too complex for our team to adopt fully.
+C0169,2026-03-07,Support has been slow to respond to our last three tickets.
+C0169,2026-03-20,Support has been slow to respond to our last three tickets.
+C0169,2026-03-06,Pricing feels too high compared to the value we're getting.
+C0170,2026-05-05,We're expanding usage across more departments this quarter.
+C0170,2026-01-27,We're expanding usage across more departments this quarter.
+C0171,2026-02-25,Onboarding was smooth and the product fits our needs well.
+C0172,2026-06-02,"The team loves the new dashboard, really improved our workflow."
+C0172,2026-05-05,"Great support response time, issue resolved quickly."
+C0172,2026-01-11,Onboarding was smooth and the product fits our needs well.
+C0173,2026-04-16,Support has been slow to respond to our last three tickets.
+C0173,2026-03-07,Pricing feels too high compared to the value we're getting.
+C0173,2026-02-07,The platform is too complex for our team to adopt fully.
+C0174,2026-05-16,Support has been slow to respond to our last three tickets.
+C0174,2026-06-05,The platform is too complex for our team to adopt fully.
+C0174,2026-04-19,Pricing feels too high compared to the value we're getting.
+C0175,2026-02-02,Onboarding was smooth and the product fits our needs well.
+C0175,2026-02-26,Onboarding was smooth and the product fits our needs well.
+C0175,2026-01-15,Onboarding was smooth and the product fits our needs well.
+C0176,2026-04-22,"The team loves the new dashboard, really improved our workflow."
+C0176,2026-06-28,Onboarding was smooth and the product fits our needs well.
+C0176,2026-01-01,Onboarding was smooth and the product fits our needs well.
+C0177,2026-02-13,We're evaluating competitor tools because key features are missing.
+C0177,2026-06-04,The platform is too complex for our team to adopt fully.
+C0178,2026-02-07,"The team loves the new dashboard, really improved our workflow."
+C0178,2026-05-23,We're expanding usage across more departments this quarter.
+C0179,2026-03-16,Onboarding was smooth and the product fits our needs well.
+C0180,2026-03-22,Pricing feels too high compared to the value we're getting.
+C0180,2026-03-21,Support has been slow to respond to our last three tickets.
+C0181,2026-01-21,Onboarding was smooth and the product fits our needs well.
+C0181,2026-04-27,Onboarding was smooth and the product fits our needs well.
+C0182,2026-02-05,Onboarding was smooth and the product fits our needs well.
+C0183,2026-01-24,"We've had repeated bugs in the reporting module, frustrating."
+C0183,2026-05-22,We're evaluating competitor tools because key features are missing.
+C0184,2026-04-08,"We've had repeated bugs in the reporting module, frustrating."
+C0184,2026-02-14,The platform is too complex for our team to adopt fully.
+C0184,2026-05-11,Support has been slow to respond to our last three tickets.
+C0185,2026-06-05,"We've had repeated bugs in the reporting module, frustrating."
+C0185,2026-05-22,The platform is too complex for our team to adopt fully.
+C0186,2026-06-23,Support has been slow to respond to our last three tickets.
+C0187,2026-02-21,We're evaluating competitor tools because key features are missing.
+C0187,2026-02-11,The platform is too complex for our team to adopt fully.
+C0187,2026-05-18,Pricing feels too high compared to the value we're getting.
+C0188,2026-02-24,Onboarding was smooth and the product fits our needs well.
+C0188,2026-03-14,"The team loves the new dashboard, really improved our workflow."
+C0188,2026-03-15,We're expanding usage across more departments this quarter.
+C0189,2026-02-25,Support has been slow to respond to our last three tickets.
+C0189,2026-01-05,"We've had repeated bugs in the reporting module, frustrating."
+C0189,2026-01-25,"We've had repeated bugs in the reporting module, frustrating."
+C0190,2026-05-20,The platform is too complex for our team to adopt fully.
+C0190,2026-05-08,"We've had repeated bugs in the reporting module, frustrating."
+C0190,2026-06-01,"We've had repeated bugs in the reporting module, frustrating."
+C0191,2026-02-17,We're evaluating competitor tools because key features are missing.
+C0191,2026-04-23,The platform is too complex for our team to adopt fully.
+C0192,2026-04-16,We're expanding usage across more departments this quarter.
+C0192,2026-02-07,"Great support response time, issue resolved quickly."
+C0192,2026-01-14,"Great support response time, issue resolved quickly."
+C0193,2026-02-24,We're evaluating competitor tools because key features are missing.
+C0194,2026-01-06,"We've had repeated bugs in the reporting module, frustrating."
+C0194,2026-05-16,We're evaluating competitor tools because key features are missing.
+C0194,2026-04-08,Support has been slow to respond to our last three tickets.
+C0195,2026-05-24,"The team loves the new dashboard, really improved our workflow."
+C0195,2026-06-11,We're expanding usage across more departments this quarter.
+C0196,2026-05-04,"The team loves the new dashboard, really improved our workflow."
+C0196,2026-04-27,We're expanding usage across more departments this quarter.
+C0197,2026-05-18,"We've had repeated bugs in the reporting module, frustrating."
+C0198,2026-05-13,Pricing feels too high compared to the value we're getting.
+C0198,2026-06-02,The platform is too complex for our team to adopt fully.
+C0199,2026-03-25,We're expanding usage across more departments this quarter.
+C0200,2026-03-20,We're expanding usage across more departments this quarter.
+C0200,2026-06-17,"The team loves the new dashboard, really improved our workflow."
+C0201,2026-01-24,We're expanding usage across more departments this quarter.
+C0202,2026-06-18,The platform is too complex for our team to adopt fully.
+C0202,2026-04-14,"We've had repeated bugs in the reporting module, frustrating."
+C0202,2026-04-01,Support has been slow to respond to our last three tickets.
+C0203,2026-04-03,"We've had repeated bugs in the reporting module, frustrating."
+C0204,2026-06-24,"Great support response time, issue resolved quickly."
+C0204,2026-01-04,"The team loves the new dashboard, really improved our workflow."
+C0205,2026-01-17,Onboarding was smooth and the product fits our needs well.
+C0205,2026-06-26,We're expanding usage across more departments this quarter.
+C0205,2026-04-18,"Great support response time, issue resolved quickly."
+C0206,2026-03-19,"We've had repeated bugs in the reporting module, frustrating."
+C0206,2026-02-28,"We've had repeated bugs in the reporting module, frustrating."
+C0207,2026-04-10,Pricing feels too high compared to the value we're getting.
+C0208,2026-03-21,We're expanding usage across more departments this quarter.
+C0208,2026-01-05,"Great support response time, issue resolved quickly."
+C0209,2026-01-15,Support has been slow to respond to our last three tickets.
+C0210,2026-05-16,"The team loves the new dashboard, really improved our workflow."
+C0210,2026-02-19,"Great support response time, issue resolved quickly."
+C0211,2026-04-03,We're expanding usage across more departments this quarter.
+C0211,2026-02-18,"The team loves the new dashboard, really improved our workflow."
+C0211,2026-05-21,Onboarding was smooth and the product fits our needs well.
+C0212,2026-01-06,"We've had repeated bugs in the reporting module, frustrating."
+C0212,2026-01-21,"We've had repeated bugs in the reporting module, frustrating."
+C0212,2026-01-05,Support has been slow to respond to our last three tickets.
+C0213,2026-03-03,Onboarding was smooth and the product fits our needs well.
+C0214,2026-02-22,"We've had repeated bugs in the reporting module, frustrating."
+C0215,2026-04-24,"Great support response time, issue resolved quickly."
+C0215,2026-01-03,Onboarding was smooth and the product fits our needs well.
+C0216,2026-01-25,We're evaluating competitor tools because key features are missing.
+C0216,2026-05-03,We're evaluating competitor tools because key features are missing.
+C0217,2026-06-28,"The team loves the new dashboard, really improved our workflow."
+C0217,2026-03-17,Onboarding was smooth and the product fits our needs well.
+C0218,2026-05-02,"Great support response time, issue resolved quickly."
+C0218,2026-05-24,"The team loves the new dashboard, really improved our workflow."
+C0219,2026-04-24,"The team loves the new dashboard, really improved our workflow."
+C0219,2026-04-20,Onboarding was smooth and the product fits our needs well.
+C0219,2026-03-17,Onboarding was smooth and the product fits our needs well.
+C0220,2026-02-20,Support has been slow to respond to our last three tickets.
+C0220,2026-04-17,The platform is too complex for our team to adopt fully.
+C0220,2026-04-26,We're evaluating competitor tools because key features are missing.
+C0221,2026-06-10,"We've had repeated bugs in the reporting module, frustrating."
+C0222,2026-04-21,"The team loves the new dashboard, really improved our workflow."
+C0223,2026-05-14,"We've had repeated bugs in the reporting module, frustrating."
+C0224,2026-05-26,Onboarding was smooth and the product fits our needs well.
+C0224,2026-01-21,"Great support response time, issue resolved quickly."
+C0225,2026-01-10,Support has been slow to respond to our last three tickets.
+C0226,2026-01-04,Support has been slow to respond to our last three tickets.
+C0226,2026-03-13,Support has been slow to respond to our last three tickets.
+C0227,2026-02-07,"The team loves the new dashboard, really improved our workflow."
+C0227,2026-03-22,Onboarding was smooth and the product fits our needs well.
+C0227,2026-04-26,We're expanding usage across more departments this quarter.
+C0228,2026-02-21,We're expanding usage across more departments this quarter.
+C0229,2026-03-15,The platform is too complex for our team to adopt fully.
+C0229,2026-06-02,We're evaluating competitor tools because key features are missing.
+C0230,2026-05-18,Onboarding was smooth and the product fits our needs well.
+C0230,2026-02-19,"The team loves the new dashboard, really improved our workflow."
+C0230,2026-03-03,Onboarding was smooth and the product fits our needs well.
+C0231,2026-03-13,"The team loves the new dashboard, really improved our workflow."
+C0232,2026-05-20,"Great support response time, issue resolved quickly."
+C0232,2026-02-20,We're expanding usage across more departments this quarter.
+C0232,2026-03-23,"The team loves the new dashboard, really improved our workflow."
+C0233,2026-04-03,Onboarding was smooth and the product fits our needs well.
+C0233,2026-02-12,We're expanding usage across more departments this quarter.
+C0234,2026-02-17,Support has been slow to respond to our last three tickets.
+C0234,2026-02-04,Support has been slow to respond to our last three tickets.
+C0235,2026-01-15,"Great support response time, issue resolved quickly."
+C0235,2026-04-17,"The team loves the new dashboard, really improved our workflow."
+C0236,2026-06-28,We're expanding usage across more departments this quarter.
+C0237,2026-02-25,Onboarding was smooth and the product fits our needs well.
+C0237,2026-05-22,"The team loves the new dashboard, really improved our workflow."
+C0237,2026-02-24,"Great support response time, issue resolved quickly."
+C0238,2026-01-01,The platform is too complex for our team to adopt fully.
+C0239,2026-01-11,The platform is too complex for our team to adopt fully.
+C0239,2026-01-04,We're evaluating competitor tools because key features are missing.
+C0240,2026-01-19,Onboarding was smooth and the product fits our needs well.
+C0240,2026-06-07,Onboarding was smooth and the product fits our needs well.
+C0240,2026-02-07,Onboarding was smooth and the product fits our needs well.
+C0241,2026-04-22,Onboarding was smooth and the product fits our needs well.
+C0241,2026-03-05,"The team loves the new dashboard, really improved our workflow."
+C0242,2026-05-18,"The team loves the new dashboard, really improved our workflow."
+C0243,2026-05-11,Onboarding was smooth and the product fits our needs well.
+C0243,2026-02-23,Onboarding was smooth and the product fits our needs well.
+C0243,2026-05-08,Onboarding was smooth and the product fits our needs well.
+C0244,2026-05-15,Onboarding was smooth and the product fits our needs well.
+C0245,2026-06-02,We're evaluating competitor tools because key features are missing.
+C0246,2026-04-13,"The team loves the new dashboard, really improved our workflow."
+C0247,2026-05-12,We're expanding usage across more departments this quarter.
+C0248,2026-06-25,"Great support response time, issue resolved quickly."
+C0248,2026-04-19,"The team loves the new dashboard, really improved our workflow."
+C0249,2026-01-15,We're expanding usage across more departments this quarter.
+C0250,2026-04-08,We're expanding usage across more departments this quarter.
+C0250,2026-02-28,"Great support response time, issue resolved quickly."
+C0251,2026-04-06,Onboarding was smooth and the product fits our needs well.
+C0251,2026-03-15,Onboarding was smooth and the product fits our needs well.
+C0251,2026-01-03,We're expanding usage across more departments this quarter.
+C0252,2026-04-28,We're expanding usage across more departments this quarter.
+C0252,2026-03-25,"Great support response time, issue resolved quickly."
+C0253,2026-05-04,"Great support response time, issue resolved quickly."
+C0253,2026-06-26,We're expanding usage across more departments this quarter.
+C0254,2026-03-18,"The team loves the new dashboard, really improved our workflow."
+C0255,2026-02-20,We're evaluating competitor tools because key features are missing.
+C0255,2026-05-06,"We've had repeated bugs in the reporting module, frustrating."
+C0256,2026-02-27,Onboarding was smooth and the product fits our needs well.
+C0256,2026-04-19,We're expanding usage across more departments this quarter.
+C0257,2026-02-22,"Great support response time, issue resolved quickly."
+C0257,2026-06-23,"The team loves the new dashboard, really improved our workflow."
+C0258,2026-05-20,Pricing feels too high compared to the value we're getting.
+C0258,2026-03-18,We're evaluating competitor tools because key features are missing.
+C0258,2026-04-06,Pricing feels too high compared to the value we're getting.
+C0259,2026-05-04,Pricing feels too high compared to the value we're getting.
+C0259,2026-04-11,The platform is too complex for our team to adopt fully.
+C0260,2026-01-07,Pricing feels too high compared to the value we're getting.
+C0260,2026-05-25,"We've had repeated bugs in the reporting module, frustrating."
+C0261,2026-06-05,"We've had repeated bugs in the reporting module, frustrating."
+C0261,2026-05-10,We're evaluating competitor tools because key features are missing.
+C0261,2026-05-19,We're evaluating competitor tools because key features are missing.
+C0262,2026-03-19,Onboarding was smooth and the product fits our needs well.
+C0262,2026-04-23,Onboarding was smooth and the product fits our needs well.
+C0263,2026-05-17,"The team loves the new dashboard, really improved our workflow."
+C0263,2026-02-28,We're expanding usage across more departments this quarter.
+C0264,2026-01-23,"The team loves the new dashboard, really improved our workflow."
+C0264,2026-01-28,Onboarding was smooth and the product fits our needs well.
+C0265,2026-04-23,"We've had repeated bugs in the reporting module, frustrating."
+C0265,2026-04-21,The platform is too complex for our team to adopt fully.
+C0266,2026-04-14,We're expanding usage across more departments this quarter.
+C0266,2026-06-06,"Great support response time, issue resolved quickly."
+C0267,2026-03-27,We're expanding usage across more departments this quarter.
+C0267,2026-02-10,We're expanding usage across more departments this quarter.
+C0268,2026-01-21,"The team loves the new dashboard, really improved our workflow."
+C0268,2026-02-24,"The team loves the new dashboard, really improved our workflow."
+C0268,2026-06-14,We're expanding usage across more departments this quarter.
+C0269,2026-04-26,We're expanding usage across more departments this quarter.
+C0270,2026-05-06,We're expanding usage across more departments this quarter.
+C0270,2026-05-14,We're expanding usage across more departments this quarter.
+C0270,2026-04-12,We're expanding usage across more departments this quarter.
+C0271,2026-05-16,"The team loves the new dashboard, really improved our workflow."
+C0272,2026-04-18,Onboarding was smooth and the product fits our needs well.
+C0272,2026-01-02,Onboarding was smooth and the product fits our needs well.
+C0272,2026-06-12,We're expanding usage across more departments this quarter.
+C0273,2026-02-24,"The team loves the new dashboard, really improved our workflow."
+C0274,2026-04-17,Onboarding was smooth and the product fits our needs well.
+C0274,2026-05-20,"The team loves the new dashboard, really improved our workflow."
+C0274,2026-02-16,"The team loves the new dashboard, really improved our workflow."
+C0275,2026-06-21,"The team loves the new dashboard, really improved our workflow."
+C0275,2026-05-02,Onboarding was smooth and the product fits our needs well.
+C0275,2026-05-25,Onboarding was smooth and the product fits our needs well.
+C0276,2026-05-24,We're expanding usage across more departments this quarter.
+C0277,2026-03-06,Onboarding was smooth and the product fits our needs well.
+C0277,2026-06-20,"The team loves the new dashboard, really improved our workflow."
+C0278,2026-01-21,Onboarding was smooth and the product fits our needs well.
+C0278,2026-05-06,We're expanding usage across more departments this quarter.
+C0278,2026-06-10,"The team loves the new dashboard, really improved our workflow."
+C0279,2026-04-03,Onboarding was smooth and the product fits our needs well.
+C0279,2026-05-03,"Great support response time, issue resolved quickly."
+C0279,2026-03-05,Onboarding was smooth and the product fits our needs well.
+C0280,2026-01-24,Onboarding was smooth and the product fits our needs well.
+C0280,2026-05-06,"The team loves the new dashboard, really improved our workflow."
+C0280,2026-06-15,"Great support response time, issue resolved quickly."
+C0281,2026-06-08,Support has been slow to respond to our last three tickets.
+C0281,2026-02-26,We're evaluating competitor tools because key features are missing.
+C0282,2026-01-05,Support has been slow to respond to our last three tickets.
+C0282,2026-02-27,The platform is too complex for our team to adopt fully.
+C0282,2026-04-25,We're evaluating competitor tools because key features are missing.
+C0283,2026-06-21,We're expanding usage across more departments this quarter.
+C0283,2026-02-19,"Great support response time, issue resolved quickly."
+C0284,2026-06-09,"The team loves the new dashboard, really improved our workflow."
+C0284,2026-01-06,"The team loves the new dashboard, really improved our workflow."
+C0284,2026-04-16,We're expanding usage across more departments this quarter.
+C0285,2026-04-22,"Great support response time, issue resolved quickly."
+C0285,2026-04-09,We're expanding usage across more departments this quarter.
+C0286,2026-01-10,We're evaluating competitor tools because key features are missing.
+C0287,2026-05-22,Onboarding was smooth and the product fits our needs well.
+C0287,2026-01-18,"The team loves the new dashboard, really improved our workflow."
+C0288,2026-05-21,We're expanding usage across more departments this quarter.
+C0288,2026-03-09,Onboarding was smooth and the product fits our needs well.
+C0288,2026-01-09,Onboarding was smooth and the product fits our needs well.
+C0289,2026-06-24,We're expanding usage across more departments this quarter.
+C0289,2026-06-22,"Great support response time, issue resolved quickly."
+C0289,2026-05-11,"Great support response time, issue resolved quickly."
+C0290,2026-03-18,"Great support response time, issue resolved quickly."
+C0290,2026-06-01,"The team loves the new dashboard, really improved our workflow."
+C0290,2026-01-14,"The team loves the new dashboard, really improved our workflow."
+C0291,2026-03-08,We're evaluating competitor tools because key features are missing.
+C0292,2026-01-01,"We've had repeated bugs in the reporting module, frustrating."
+C0292,2026-01-02,The platform is too complex for our team to adopt fully.
+C0292,2026-06-27,The platform is too complex for our team to adopt fully.
+C0293,2026-06-04,Pricing feels too high compared to the value we're getting.
+C0294,2026-04-22,"We've had repeated bugs in the reporting module, frustrating."
+C0295,2026-01-23,"We've had repeated bugs in the reporting module, frustrating."
+C0295,2026-03-10,"We've had repeated bugs in the reporting module, frustrating."
+C0295,2026-06-03,We're evaluating competitor tools because key features are missing.
+C0296,2026-04-23,Onboarding was smooth and the product fits our needs well.
+C0296,2026-03-06,Onboarding was smooth and the product fits our needs well.
+C0296,2026-03-25,"The team loves the new dashboard, really improved our workflow."
+C0297,2026-01-09,Onboarding was smooth and the product fits our needs well.
+C0298,2026-04-07,Pricing feels too high compared to the value we're getting.
+C0298,2026-04-06,The platform is too complex for our team to adopt fully.
+C0299,2026-05-25,"Great support response time, issue resolved quickly."
+C0299,2026-02-20,We're expanding usage across more departments this quarter.
+C0299,2026-04-23,"The team loves the new dashboard, really improved our workflow."
+C0300,2026-01-19,Pricing feels too high compared to the value we're getting.
+C0300,2026-04-01,Support has been slow to respond to our last three tickets.
