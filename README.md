@@ -10,6 +10,8 @@ to churn — and why — so account managers can intervene before it's too
 late.
 
 ## Architecture
+
+```text
 [clients.csv] [usage.csv] [feedback.csv] <- source systems
 \ | /
 v v v
@@ -24,7 +26,7 @@ churn classifier feedback enrichment
 -----------+---------
 v
 FastAPI + Streamlit
-
+```
 ## Tech Stack
 
 - **Orchestration:** Apache Airflow (via Docker)
